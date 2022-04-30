@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="Homework4_CloudComputingContext-Web.config Connection String" description="Homework4_CloudComputingContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=Homework4_CloudComputingContext-20220420171838; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|Homework4_CloudComputingContext-20220420171838.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\Equipo\\source\\repos\\Homework4_CloudComputing\\Homework4_CloudComputing\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='Homework4_CloudComputingContext']/@connectionString" />
+  </parameter>
+</parameters>
